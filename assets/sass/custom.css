@@ -15,6 +15,11 @@
 body section h2 {
   color: #021F26; }
 
+#intro {
+  padding-top: 100px;
+  margin-top: 100px;
+}
+
 body section span {
   color: #3384B3; }
 

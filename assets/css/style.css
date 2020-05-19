@@ -28,7 +28,7 @@
   m - Medium devices like tablets
   l - Laptops and smaller desktops
   xl - Desktops
-  @media screen and (min-width: 320px) and (max-width: 480px) {
+  @media screen and (min-width: 200px) and (max-width: 480px) {
     body {
       background-color:red;
     }
