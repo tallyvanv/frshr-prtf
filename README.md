@@ -1,4 +1,4 @@
-# [:cloud: Frshr :cloud:](https://nikske.github.io/frshr/)
+# [:cloud: Frshr :cloud:](https://tallyvanv.github.io/frshr-prtf/mission.html)
 
 By [Talisa](https://github.com/tallyvanv), [Thibaut](https://github.com/thibence-95), [Dhiraj](https://github.com/grgdhiraj) and [Wolf](https://github.com/Nikske)
 
