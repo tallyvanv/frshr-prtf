@@ -1,0 +1,26 @@
+/* Colour palette */
+$colors: (
+  text: #242424,
+  white: #f5f2d0,
+  light-blue: #3384B3,
+  navy-blue: #022f39,
+  light-grey: #EFF2E3,
+  fresh-green: #2acb66,
+        transbg: rgb(239, 242, 227, 0.9)
+);
+
+/* Media queries */
+/* Small devices (smartphones) */
+$s: "screen and (min-width: 200px) and (max-width: 480px)";
+/* Small tablets */
+$s2: "screen and (min-width: 481px) and (max-width: 767px)";
+/* Medium devices (tablets, 768px and up) */
+$m: "screen and (min-width: 768px) and (max-width: 1024px)";
+/* Large devices (Laptops and smaller desktops) */
+$l: "screen and (min-width: 1025px) and (max-width: 1280px)";
+/* Extra large devices (Desktops 1281 and up) */
+$xl: "screen and (min-width: 1281px)";
+
+/* Links */
+$links: 'a:link, a:active, a:visited';
+

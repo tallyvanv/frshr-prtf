@@ -1,0 +1,22 @@
+
+/*html {
+  height: 100%;
+  overflow: hidden;
+}*/
+.banner {
+  box-sizing: border-box;
+  padding: 30vw 0 5vw;
+  /*width: 100vw;*/
+  text-align: center;
+  height: 500px;
+  background-image: url("https://www.seatoskyair.ca/wp-content/uploads/2016/06/cascades.png");
+  /*actual parallax shizzle*/
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*# sourceMappingURL=landing.scss.map */
+
+/*# sourceMappingURL=landing.css.map */

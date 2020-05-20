@@ -1,0 +1,48 @@
+@import "libs/vars";
+@import "libs/functions";
+@import "../css/fontello.css";
+
+body {
+  .page-wrapper {
+    section {
+      .img-fit {
+        width: 100%;
+        object-fit: cover;
+        height: 15em;
+      }
+      form {
+        label {
+          textarea {
+            font-size: 0.8em;
+            border-radius: 3px;
+            resize: none;
+            outline: none;
+          }
+        }
+      }
+      header {
+        padding: 1%;
+      }
+      h2 {
+        color: color(navy-blue);
+      }
+      .blue {
+        color: color(light-blue);
+      }
+      .green {
+        color: color(fresh-green);
+      }
+      .alternate {
+        padding: 1%;
+      }
+      /* Alternating background colours to change things up */
+      .alternate:nth-child(even) {
+        background-color: color(light-grey);
+      }
+      li {
+        font-size: 80%;
+        margin-top: 1%;
+      }
+    }
+  }
+}
